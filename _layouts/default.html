@@ -25,10 +25,10 @@
 
     <header class="page-header" role="banner">
          <div class="logo">
-          <img src="https://raw.githubusercontent.com/GCGImdea/Coronasurveys-web/master/assets/coronasurveys_logo.png">
+          <img src="assets/coronasurveys_logo.png">
       </div>
 
-      <h2 class="project-tagline">{{ site.description }}</h2>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
