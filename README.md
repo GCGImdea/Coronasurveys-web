@@ -12,7 +12,7 @@ You can help by regularly completing the anonymous survey.
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/University_of_Cyprus_2gr.jpg" height="50" width="150">
          </a> 
-         <a href="https://www.algolysis.org/" target="_blank">
+         <a href="https://www.algolysis.com/" target="_blank">
          <img src="https://github.com/GCGImdea/coronasurveys/raw/master/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg" height="50" width="150">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank">
