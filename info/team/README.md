@@ -8,6 +8,7 @@ The study is conducted by a team led by the Research Professor Antonio Fernandez
 - Paolo Casari, University of Trento, Italy
 - Ignacio Castro, QMUL, UK
 - Davide Frey, Inria Rennes, France
+- Amanda García, IMDEA Networks Institute, Spain
 - Augusto Garcia-Agundez, TU Darmstadt, Germany
 - Angeliki Gazi, Panteion University of Social and Political Sciences, Greece
 - Chryssis Georgiou, U. Cyprus, Cyprus
