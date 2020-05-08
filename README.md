@@ -360,4 +360,4 @@ You can also follow us on social networks and share our work:
          <img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50">
 </a>
 
-[E-mail](mailto:coronasurveys@gmail.com){: .btn}
+[E-mail](mailto:coronasurveys@gmail.com){: .btn} 
