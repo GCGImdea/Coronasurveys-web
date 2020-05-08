@@ -20,7 +20,7 @@ a#skip-to-content {
     width: 100%;
     padding: 0px;
     margin: 0;
-    background: #ffffffde;
+    background: #fff;
     border-radius: 35px;
 }
 
@@ -41,6 +41,7 @@ a#skip-to-content {
     border-bottom: 1px solid #cacaca;
     background-attachment: fixed;
     background-size: cover;
+    margin-top: 70px;
 }
 
 .main-content img {
@@ -63,6 +64,10 @@ center {
     padding: 2em;
     background: #37107d;
     text-align: center;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
 }
 
 select {
@@ -70,10 +75,35 @@ select {
     color: #000;
     border: 3px solid;
     max-width: 100%;
+    background: #fff;
 }
 
-div#map {
+    div#map {
     border-bottom: 1px solid #cacaca;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+}
+
+div#map_zoom svg {
+    stroke: #314d65!important;
+    fill: #fff;
+    background: #314d65;
+    border-radius: 8px;
+}
+
+#map_zoom path {
+    stroke: #000;
+}
+
+div#map_outer path {
+    fill: #2a8c92;
+    stroke: #000;
+}
+
+div#map_holder {
+    z-index: 0;
 }
 
 .btn {
