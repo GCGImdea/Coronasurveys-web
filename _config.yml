@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 url: https://coronasurveys.org
-title: Monitoring the Incidence of COVID-19 via Open Surveys 
+title: Coronasurveys
+tagline: Monitoring the Incidence of COVID-19 via Open Surveys 
 github:
   is_project_page: false
 
