@@ -5,6 +5,50 @@ via anonymous open surveys ([all the data collected is openly available](https:/
 The results below present estimations on the incidence of COVID-19 from this and other available data. 
 You can help by regularly completing the anonymous survey.
 
+### Supported By:
+<div id="logos-main">
+   <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
+         <a href="https://www.networks.imdea.org/" target="_blank">
+         <img src="{{ '/logos/imdea-networks-positivo-color.jpg' | relative_url }}" height="50" width="100">
+         </a> 
+         <a href="https://www.ucy.ac.cy/en/" target="_blank">
+         <img src="{{ '/logos/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
+         </a> 
+         <a href="https://www.algolysis.com/" target="_blank">
+         <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
+         </a> 
+         <a href="https://viterbischool.usc.edu/" target="_blank">
+         <img src="{{ '/logos/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="50" width="130">
+         </a> 
+         <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
+         <img src="{{ '/logos/tud_logo.png' | relative_url }}" height="50" width="120">
+         </a> 
+         <a href="https://www.tuat.ac.jp/en/" target="_blank">
+         <img src="{{ '/logos/tat_2.png' | relative_url }}" height="50" width="100">
+         </a> 
+         <a href="https://www.ed.ac.uk/informatics" target="_blank">
+         <img src="{{ '/logos/InformaticsUni_transparent.gif' | relative_url }}" height="50" width="180">
+         </a> 
+         <a href="https://www.uminho.pt/EN" target="_blank">
+         <img src="{{ '/logos/UMinho.png' | relative_url }}" height="50" width="100">
+         </a> 
+         <a href="https://www.inesctec.pt/en" target="_blank">
+         <img src="{{ '/logos/inesctec.jpg' | relative_url }}" height="45" width="110">
+         </a> 
+         <a href="https://www.unitn.it/en/" target="_blank">
+         <img src="{{ '/logos/newlogo_unitn_it.png' | relative_url }}" height="50" width="160">
+         </a> 
+         <a href="https://www.washington.edu/" target="_blank">
+         <img src="{{ '/logos/Logo-UW.png' | relative_url }}" height="50">
+         </a> 
+         <a href="https://www.ibidat.es" target="_blank">
+         <img src="{{ '/logos/IBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
+         </a>
+         <a href="https://skyhaven.co.uk" target="_blank">
+         <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
+         </a>
+</div>
+
 ### Contribute and fill the anonymous survey for a country:
 
 <div class="dropdown-section">
@@ -302,51 +346,6 @@ Because we are tracking the evolution of this epidemic over time, once you have 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
 
 The objective of this study is the collection and publication of data concerning the number of people that show symptoms compatible with COVID-19 in different countries. Hopefully, this data will be useful to estimate the number of infected persons with the COVID-19 virus at a given point in time in these countries, and the evolution of this number over time.
-
-
-### Supported By:
-<div id="logos-main">
-   <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
-         <a href="https://www.networks.imdea.org/" target="_blank">
-         <img src="{{ '/logos/imdea-networks-positivo-color.jpg' | relative_url }}" height="50" width="100">
-         </a> 
-         <a href="https://www.ucy.ac.cy/en/" target="_blank">
-         <img src="{{ '/logos/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
-         </a> 
-         <a href="https://www.algolysis.com/" target="_blank">
-         <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
-         </a> 
-         <a href="https://viterbischool.usc.edu/" target="_blank">
-         <img src="{{ '/logos/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="50" width="130">
-         </a> 
-         <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
-         <img src="{{ '/logos/tud_logo.png' | relative_url }}" height="50" width="120">
-         </a> 
-         <a href="https://www.tuat.ac.jp/en/" target="_blank">
-         <img src="{{ '/logos/tat_2.png' | relative_url }}" height="50" width="100">
-         </a> 
-         <a href="https://www.ed.ac.uk/informatics" target="_blank">
-         <img src="{{ '/logos/InformaticsUni_transparent.gif' | relative_url }}" height="50" width="180">
-         </a> 
-         <a href="https://www.uminho.pt/EN" target="_blank">
-         <img src="{{ '/logos/UMinho.png' | relative_url }}" height="50" width="100">
-         </a> 
-         <a href="https://www.inesctec.pt/en" target="_blank">
-         <img src="{{ '/logos/inesctec.jpg' | relative_url }}" height="45" width="110">
-         </a> 
-         <a href="https://www.unitn.it/en/" target="_blank">
-         <img src="{{ '/logos/newlogo_unitn_it.png' | relative_url }}" height="50" width="160">
-         </a> 
-         <a href="https://www.washington.edu/" target="_blank">
-         <img src="{{ '/logos/Logo-UW.png' | relative_url }}" height="50">
-         </a> 
-         <a href="https://www.ibidat.es" target="_blank">
-         <img src="{{ '/logos/IBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
-         </a>
-         <a href="https://skyhaven.co.uk" target="_blank">
-         <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
-         </a>
-</div>
 
 ### Follow us!
 
