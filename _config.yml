@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 url: https://coronasurveys.org
 title: <img src="{{ 'assets/coronasurveys_logo.png' | relative_url }}">
-        style="text-align:center"><br>
+       <br>
       <font size="5"> <span>&#64;</span>CoronaSurveys<span>&#58;</span> Monitoring the Incidence of COVID-19 via Open Surveys </font>  
 github:
   is_project_page: false
