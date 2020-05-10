@@ -12,3 +12,4 @@ plugins:
 - jekyll-redirect-from
 - jekyll-sitemap
 - jemoji
+- jekyll-seo-tag
