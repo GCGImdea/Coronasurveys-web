@@ -347,12 +347,11 @@ The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2
 The objective of this study is the collection and publication of data concerning the number of people that show symptoms compatible with COVID-19 in different countries. Hopefully, this data will be useful to estimate the number of infected persons with the COVID-19 virus at a given point in time in these countries, and the evolution of this number over time.
 
 ### Follow us!
-<div class="center-content">
    
-You can also follow us on social networks and share our work:
-
-<a href="https://www.facebook.com/coronasurveys/" target="_blank">
-         <img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50">
+<h3>You can also follow us on social networks and share our work:</h3>
+<div class="center-content">
+<p><a href="https://www.facebook.com/coronasurveys/" target="_blank">
+   <img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://twitter.com/coronasurveys" target="_blank" >
          <img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://www.instagram.com/coronasurveys/" target="_blank">
@@ -360,4 +359,5 @@ You can also follow us on social networks and share our work:
 </a>
 
 [E-mail](mailto:coronasurveys@gmail.com){: .btn} 
+</p>
 </div>
