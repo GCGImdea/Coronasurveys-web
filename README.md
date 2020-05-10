@@ -313,7 +313,7 @@ The objective of this study is the collection and publication of data concerning
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
          <img src="{{ '/logos/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
          </a> 
-         <a href="https://www.algolysis.org/" target="_blank">
+         <a href="https://www.algolysis.com/" target="_blank">
          <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank">
