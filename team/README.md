@@ -35,6 +35,7 @@ The study is conducted by a team led by the Research Professor [Antonio Fernande
 
 ## Collaborators
 
+- Chus Fernández
 - Rodrigo Irarrazaval
 - Paul Rimba
 - Erol Sahin
