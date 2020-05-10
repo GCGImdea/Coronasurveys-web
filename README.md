@@ -234,7 +234,7 @@ You can help by regularly completing the anonymous survey.
 
 ### Estimates obtained by CoronaSurveys
 
-(Updated daily)
+####(Updated daily)
 <iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" width="100%" height="400" frameborder="0"></iframe> 
 
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
@@ -245,7 +245,7 @@ You can help by regularly completing the anonymous survey.
 
 ### Latest estimates per country
 
-(Updated daily)
+####(Updated daily)
 
 <iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" width="100%" height="500" frameborder="0"></iframe>
 
