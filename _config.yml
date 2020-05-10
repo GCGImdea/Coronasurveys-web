@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 url: https://coronasurveys.org
 title: Coronasurveys
 tagline: Monitoring the Incidence of COVID-19 via Open Surveys 
+description: The CoronaSurveys project is a collaborative endeavour from several universities and research institutions. Data about COVID-19 cases is collected via anonymous open surveys (all the data collected is openly available). You can help by regularly completing the anonymous survey.
 github:
   is_project_page: false
 
