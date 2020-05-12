@@ -349,7 +349,7 @@ The objective of this study is the collection and publication of data concerning
 ### Follow us!
    
 <h3>You can also follow us on social networks and share our work:</h3>
-<div class="centered">
+<center>
 <a href="https://www.facebook.com/coronasurveys/" target="_blank">
    <img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50">
 </a> <a href="https://twitter.com/coronasurveys" target="_blank" >
@@ -358,5 +358,5 @@ The objective of this study is the collection and publication of data concerning
          <img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50">
 </a>
 [E-mail](mailto:coronasurveys@gmail.com){: .btn} 
-</div>
+</center>
 
