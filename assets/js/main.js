@@ -1,3 +1,16 @@
+  (function () {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://app.termly.io/embed.min.js';
+    s.id = '1197f0f9-f595-4c59-b665-5ad478686f8e';
+    s.setAttribute("data-name", "termly-embed-banner");
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+  })();
+
+
+
 // main page JS - simply-nav does not need this
 (pageDuty => {
   const stickyToggle = document.querySelector('.button-default.-sticky');
