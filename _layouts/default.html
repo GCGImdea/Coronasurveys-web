@@ -25,6 +25,42 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}"> 
 <meta property="og:image" content="{{ 'logos/Coronasurveys_Social_1280x640_bordered.png' | relative_url }}">
+<script type="text/javascript" src="{{ 'assets/tarteaucitron/tarteaucitron.js' | relative_url}}"></script>
+
+        <script type="text/javascript">
+        tarteaucitron.init({
+    	  "privacyUrl": "/Privacy", /* Privacy policy url */
+
+    	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+    	  "cookieName": "tarteaucitron", /* Cookie name */
+    
+    	  "orientation": "bottom", /* Banner position (top - bottom) */
+    	  "showAlertSmall": false, /* Show the small banner on bottom right */
+    	  "cookieslist": true, /* Show the cookie list */
+
+    	  "adblocker": false, /* Show a Warning if an adblocker is detected */
+    	  "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+    	  "highPrivacy": true, /* Disable auto consent */
+    	  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+    	  "removeCredit": true, /* Remove credit link */
+    	  "moreInfoLink": true, /* Show more info link */
+    	  "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+
+    	  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
+                          
+    	  "readmoreLink": "/Privacy" /* Change the default readmore link */
+        });
+        </script>
+
+        <script type="text/javascript">
+        tarteaucitron.user.gtagUa = 'UA-165674370-1';
+        tarteaucitron.user.gtagMore = function () {
+       		function gtag(){dataLayer.push(arguments);} // Récupéré dans tarteaucitron.services.js
+       		gtag('config', tarteaucitron.user.gtagUa, { 'anonymize_ip': true });
+};
+        (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+        </script>
   </head>
   <body>
     
