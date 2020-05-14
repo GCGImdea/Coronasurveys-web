@@ -17,6 +17,7 @@ The study is conducted by a team led by the Research Professor [Antonio Fernande
 - Mathieu Goessens, Consulting, France
 - Harold Hernández, UC3M, Spain
 - Anna Ishchenko, National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Ukraine
+- Ernesto Jiménez, UPM, Spain
 - Oleksiy Kebkal, EvoLogics, Germany
 - Rosa Lillo, UC3M, Spain
 - Alvaro Méndez, UC3M, Spain
