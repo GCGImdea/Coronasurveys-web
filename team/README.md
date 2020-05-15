@@ -8,6 +8,7 @@ The study is conducted by a team led by the Research Professor [Antonio Fernande
 - [Elisa Cabana](https://www.linkedin.com/in/ecabestadistica/), IMDEA Networks Institute, Spain
 - Paolo Casari, University of Trento, Italy
 - Ignacio Castro, QMUL, UK
+- Ednaldo José Ferreira, Embrapa Instrumentation, Brazil
 - Davide Frey, Inria Rennes, France
 - Amanda García, IMDEA Networks Institute, Spain
 - Augusto Garcia-Agundez, TU Darmstadt, Germany
