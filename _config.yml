@@ -3,8 +3,8 @@ url: https://coronasurveys.org
 title: Coronasurveys - An International Survey On Coronavirus Incidence.
 tagline: Monitoring the Incidence of Coronavirus (COVID-19) via open surveys.
 description: An international group monitoring the incidence of Coronavirus (Covid-19, Sars-Cov-2) through anonymous surveys. Outbreak survey data collected is made public. Participate and assist the global effort. 
-#github:
-#  is_project_page: false
+github:
+  is_project_page: false
 
 plugins:
 - github-pages
@@ -13,19 +13,3 @@ plugins:
 - jekyll-sitemap
 - jemoji
 - jekyll-seo-tag
-- jekyll-minifier
-
-jekyll-minifier:
-    preserve_php: false
-    remove_spaces_inside_tags: true
-    remove_multi_spaces: true
-    remove_comments: true
-    remove_intertag_spaces: true
-    remove_quotes: true
-    compress_css: true
-    compress_javascript: true
-    compress_json: true
-    simple_doctype: true
-    preserve_line_breaks: false
-    simple_boolean_attributes: true
-    compress_js_templates: true
