@@ -13,3 +13,19 @@ plugins:
 - jekyll-sitemap
 - jemoji
 - jekyll-seo-tag
+- jekyll-minifier
+
+jekyll-minifier:
+    preserve_php: false
+    remove_spaces_inside_tags: true
+    remove_multi_spaces: true
+    remove_comments: true
+    remove_intertag_spaces: true
+    remove_quotes: true
+    compress_css: true
+    compress_javascript: true
+    compress_json: true
+    simple_doctype: true
+    preserve_line_breaks: false
+    simple_boolean_attributes: true
+    compress_js_templates: true
