@@ -6,46 +6,46 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
-<div id="logos-main">
+<div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" target="_blank">
-         <img src="{{ '/logos/imdea-networks-positivo-color.jpg' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos_resized/imdea-networks-positivo-color.png' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
-         <img src="{{ '/logos/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50" width="150">
+         <img src="{{ '/logos_resized/University_of_Cyprus_2gr.png' | relative_url }}" height="50" width="150">
          </a> 
          <a href="https://www.algolysis.com/" target="_blank">
-         <img src="{{ '/logos/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50" width="150">
+         <img src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.png' | relative_url }}" height="50" width="150">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank">
-         <img src="{{ '/logos/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="50" width="130">
+         <img src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.png' | relative_url }}" height="50" width="130">
          </a> 
          <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
-         <img src="{{ '/logos/tud_logo.png' | relative_url }}" height="50" width="120">
+         <img src="{{ '/logos_resized/tud_logo.png' | relative_url }}" height="50" width="120">
          </a> 
          <a href="https://www.tuat.ac.jp/en/" target="_blank">
-         <img src="{{ '/logos/tat_2.png' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos_resized/tat_2.png' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank">
-         <img src="{{ '/logos/InformaticsUni_transparent.gif' | relative_url }}" height="50" width="180">
+         <img src="{{ '/logos_resized/InformaticsUni_transparent.png' | relative_url }}" height="50" width="180">
          </a> 
          <a href="https://www.uminho.pt/EN" target="_blank">
-         <img src="{{ '/logos/UMinho.png' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos_resized/UMinho.png' | relative_url }}" height="50" width="100">
          </a> 
          <a href="https://www.inesctec.pt/en" target="_blank">
-         <img src="{{ '/logos/inesctec.jpg' | relative_url }}" height="45" width="110">
+         <img src="{{ '/logos_resized/inesctec.png' | relative_url }}" height="45" width="110">
          </a> 
          <a href="https://www.unitn.it/en/" target="_blank">
-         <img src="{{ '/logos/newlogo_unitn_it.png' | relative_url }}" height="50" width="160">
+         <img src="{{ '/logos_resized/newlogo_unitn_it.png' | relative_url }}" height="50" width="160">
          </a> 
          <a href="https://www.washington.edu/" target="_blank">
-         <img src="{{ '/logos/Logo-UW.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/Logo-UW.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ibidat.es" target="_blank">
-         <img src="{{ '/logos/IBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/IBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
          </a>
          <a href="https://skyhaven.co.uk" target="_blank">
-         <img src="{{ '/logos/skyhaven_logo_new.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/skyhaven_logo_new.png' | relative_url }}" height="50">
          </a>
 </div>
 
@@ -293,34 +293,6 @@ You can help by regularly completing the anonymous survey.
 <iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All" width="100%" height="500" frameborder="0"></iframe>
 
 <a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
-
-<h3>Choose a country for data:</h3>
-[Argentina](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AR&var-country=Argentina&var-region=All){: .btn}
-[Australia](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=AU&var-country=Australia&var-region=All){: .btn}
-[Canada](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=CA&var-country=Canada&var-region=All){: .btn}
-[Chile](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=CL&var-country=Chile&var-region=All){: .btn}
-[Cyprus](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=CY&var-country=Cyprus&var-region=All){: .btn}
-[Ecuador](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=EC&var-country=Ecuador&var-region=All){: .btn}
-[France](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=FR&var-country=France&var-region=All){: .btn}
-[Germany](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=DE&var-country=Germany&var-region=All){: .btn}
-[Greece](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=GR&var-country=Greece&var-region=All){: .btn}
-[Indonesia](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ID&var-country=Indonesia&var-region=All){: .btn}
-[Iran](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IR&var-country=Iran&var-region=All){: .btn}
-[Italy](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=IT&var-country=Italy&var-region=All){: .btn}
-[Japan](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=JP&var-country=Japan&var-region=All){: .btn}
-[Lebanon](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=LB&var-country=Lebanon&var-region=All){: .btn}
-[Netherlands](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NL&var-country=Netherlands&var-region=All){: .btn}
-[Nigeria](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All){: .btn}
-[Portugal](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=PT&var-country=Portugal&var-region=All){: .btn}
-[Spain](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All){: .btn}
-[Sweden](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=SE&var-country=Sweden&var-region=All){: .btn}
-[Turkey](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=TR&var-country=Turkey&var-region=All){: .btn}
-[UK](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=GB&var-country=UK&var-region=All){: .btn}
-[Ukraine](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=UA&var-country=Ukraine&var-region=All){: .btn}
-[USA](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=US&var-country=USA&var-region=All){: .btn}
-[Venezuela](https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=VE&var-country=Venezuela&var-region=All){: .btn}
-
-
 
 <iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" width="100%" height="500" frameborder="0">
 </iframe>
