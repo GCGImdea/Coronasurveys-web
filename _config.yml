@@ -7,7 +7,7 @@ description: An international group monitoring the incidence of Coronavirus (Cov
 #  is_project_page: false
 
 plugins:
-#- github-pages
+- github-pages
 #- jekyll-github-metadata
 - jekyll-redirect-from
 - jekyll-sitemap
