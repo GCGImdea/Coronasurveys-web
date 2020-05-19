@@ -9,34 +9,34 @@ You can help by regularly completing the anonymous survey.
 <div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" target="_blank">
-         <img src="{{ '/logos_resized/imdea-networks-positivo-color.png' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos_resized/imdea-networks-positivo-color.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
-         <img src="{{ '/logos_resized/University_of_Cyprus_2gr.png' | relative_url }}" height="50" width="150">
+         <img src="{{ '/logos_resized/University_of_Cyprus_2gr.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.algolysis.com/" target="_blank">
-         <img src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.png' | relative_url }}" height="50" width="150">
+         <img src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.png' | relative_url }}" height="50">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank">
-         <img src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.png' | relative_url }}" height="50" width="130">
+         <img src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
-         <img src="{{ '/logos_resized/tud_logo.png' | relative_url }}" height="50" width="120">
+         <img src="{{ '/logos_resized/tud_logo.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.tuat.ac.jp/en/" target="_blank">
-         <img src="{{ '/logos_resized/tat_2.png' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos_resized/tat_2.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank">
-         <img src="{{ '/logos_resized/InformaticsUni_transparent.png' | relative_url }}" height="50" width="180">
+         <img src="{{ '/logos_resized/InformaticsUni_transparent.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.uminho.pt/EN" target="_blank">
-         <img src="{{ '/logos_resized/UMinho.png' | relative_url }}" height="50" width="100">
+         <img src="{{ '/logos_resized/UMinho.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.inesctec.pt/en" target="_blank">
-         <img src="{{ '/logos_resized/inesctec.png' | relative_url }}" height="45" width="110">
+         <img src="{{ '/logos_resized/inesctec.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.unitn.it/en/" target="_blank">
-         <img src="{{ '/logos_resized/newlogo_unitn_it.png' | relative_url }}" height="50" width="160">
+         <img src="{{ '/logos_resized/newlogo_unitn_it.png' | relative_url }}" height="50">
          </a> 
          <a href="https://www.washington.edu/" target="_blank">
          <img src="{{ '/logos_resized/Logo-UW.png' | relative_url }}" height="50">
