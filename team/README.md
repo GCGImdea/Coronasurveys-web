@@ -46,9 +46,7 @@ The study is conducted by a team led by the Research Professor [Antonio Fernande
 - Matias Spatz Fernández
 - [Crowdfight COVID-19](https://crowdfightcovid19.org/)
 
-## Translators
-
-| Language              | Role                       | Name                         |
+## Translators| Language              | Role                       | Name                         |
 |-----------------------|----------------------------|------------------------------|
 |                       | Task coordinator           | Hayley Simpson               |
 | Afrikaans             | First translator           | Ilani Mostert                |
@@ -343,6 +341,7 @@ The study is conducted by a team led by the Research Professor [Antonio Fernande
 | Slovak                | Reviewer                   | Nicole Kocúrová              |
 | Slovenian             | First translator           | Vid Kocijan                  |
 | Slovenian             | Reviewer                   | Tijana Martinovic            |
+| Swahili               | First Translator           | Brian Wendo                  |
 | Swedish               | First translator           | Hannele Luhtasela            |
 | Swedish               | Reviewer                   | Mikael Billberg              |
 | Swedish               | Reviewer                   | Mats Johansson               |
