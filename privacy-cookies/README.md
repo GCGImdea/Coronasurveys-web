@@ -1,4 +1,4 @@
-Privacy and Cookies Policy for Coronasurveys.org
+## Privacy and Cookies Policy for Coronasurveys.org
 
 Cookie policy
 
