@@ -293,15 +293,6 @@ You can help by regularly completing the anonymous survey.
 
 ### Further Reading
 
-<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All" width="100%" height="500" frameborder="0"></iframe>
-
-<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All" > <center><font size="2"><u class="btn">Click For Interactive Version</u></font></center></a> 
-
-<iframe src="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" width="100%" height="500" frameborder="0">
-</iframe>
-
-<a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=24&orgId=1&from=1583610808303" > <center><font size="2"><u class="btn">Can't see the table?</u></font></center></a> 
-
 Source of data on confirmed cases and deaths: [European Centre for Disease Prevention and Control.](https://www.ecdc.europa.eu/en/covid-19-pandemic)
 
 (1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
