@@ -47,6 +47,8 @@ You can help by regularly completing the anonymous survey.
          <a href="https://skyhaven.co.uk" target="_blank">
          <img src="{{ '/logos_resized/skyhaven_logo_new.png' | relative_url }}" height="60">
          </a>
+         <a href="http://inqbarna.com" target="_blank">
+         <img src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60"></a>
 </div>
 
 ### Contribute and fill the anonymous survey for a country:
