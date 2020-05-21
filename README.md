@@ -6,7 +6,7 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
-v id="logos_resized-main">
+<div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" target="_blank">
          <img src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="50">
