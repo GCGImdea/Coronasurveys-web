@@ -153,6 +153,11 @@ div#map_holder {
 #map_inner tspan {
     display: none;
 }
+.site-footer {
+    padding-top: 1rem;
+    margin-top: 0;
+    border-top: solid 0px #eff0f1;
+}
 
 @media screen and (min-width: 64em){
 .page-header {
