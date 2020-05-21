@@ -8,28 +8,11 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/nav.css' | relative_url }}">
-<link rel="manifest" href="{{ 'manifest.json' | relative_url }}">
-<link rel="apple-touch-icon" sizes="57x57" href="{{ 'device-icons/apple-icon-57x57.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ 'device-icons/apple-icon-60x60.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ 'device-icons/apple-icon-72x72.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ 'device-icons/apple-icon-76x76.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ 'device-icons/apple-icon-114x114.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ 'device-icons/apple-icon-120x120.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ 'device-icons/apple-icon-144x144.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ 'device-icons/apple-icon-152x152.png' | relative_url }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ 'device-icons/apple-icon-180x180.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="192x192"  href="{{ 'device-icons/android-icon-192x192.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ 'device-icons/favicon-32x32.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="96x96" href="{{ 'device-icons/favicon-96x96.png' | relative_url }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ 'device-icons/favicon-16x16.png' | relative_url }}">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}"> 
-<meta property="og:image" content="{{ 'logos/Coronasurveys_Social_1280x640_bordered.png' | relative_url }}">
-<script type="text/javascript" src="{{ 'assets/tarteaucitron/tarteaucitron.js' | relative_url}}"></script>
+	  <script type="text/javascript" src="{{ 'assets/tarteaucitron/tarteaucitron.js' | relative_url}}"></script>
 
         <script type="text/javascript">
         tarteaucitron.init({
-    	  "privacyUrl": "https://coronasurveys.org/privacy", /* Privacy policy url */
+    	  "privacyUrl": "", /* Privacy policy url */
 
     	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
     	  "cookieName": "tarteaucitron", /* Cookie name */
@@ -41,7 +24,7 @@
     	  "adblocker": false, /* Show a Warning if an adblocker is detected */
     	  "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
     	  "highPrivacy": true, /* Disable auto consent */
-    	  "handleBrowserDNTRequest": true, /* If Do Not Track == 1, disallow all */
+    	  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
 
     	  "removeCredit": true, /* Remove credit link */
     	  "moreInfoLink": true, /* Show more info link */
@@ -49,18 +32,34 @@
 
     	  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
                           
-    	  "readmoreLink": "https://coronasurveys.org/privacy" /* Change the default readmore link */
+    	  "readmoreLink": "/cookiespolicy" /* Change the default readmore link */
         });
         </script>
 
         <script type="text/javascript">
-        tarteaucitron.user.gtagUa = 'UA-165674370-1';
+        tarteaucitron.user.gtagUa = 'XXXXXXX';
         tarteaucitron.user.gtagMore = function () {
        		function gtag(){dataLayer.push(arguments);} // Récupéré dans tarteaucitron.services.js
        		gtag('config', tarteaucitron.user.gtagUa, { 'anonymize_ip': true });
 };
         (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
         </script>
+<link rel="manifest" href="{{ 'manifest.json' | relative_url }}">
+<link rel="apple-touch-icon" sizes="57x57" href="{{ 'device-icons/apple-icon-57x57' | relative_url }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ 'device-icons/apple-icon-60x60' | relative_url }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ 'device-icons/apple-icon-72x72' | relative_url }}">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ 'device-icons/apple-icon-76x76' | relative_url }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ 'device-icons/apple-icon-114x114' | relative_url }}">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ 'device-icons/apple-icon-120x120' | relative_url }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ 'device-icons/apple-icon-144x144' | relative_url }}">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ 'device-icons/apple-icon-152x152' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ 'device-icons/apple-icon-180x180' | relative_url }}">
+<link rel="icon" type="image/png" sizes="192x192"  href="{{ 'device-icons/android-icon-192x192' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ 'device-icons/favicon-32x32' | relative_url }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ 'device-icons/favicon-96x96' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ 'device-icons/favicon-16x16' | relative_url }}">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}">  
   </head>
   <body>
     
@@ -93,6 +92,9 @@
           <li class="item">
             <a class="link" href="{{'/references' | relative_url }}">References</a>
           </li>
+	<li class="item">
+            <a class="link" href="{{ '/data' | relative_url }}">Data</a>
+          </li>
           <li class="item">
             <a class="link" href="{{ '/contact' | relative_url }}">Contact</a>
           </li>
@@ -115,18 +117,13 @@
       {{ content }}
 
       <footer class="site-footer">
-	      <div class="centered">
-	      <h3> Follow us!</h3>
-	      <h4>You can also follow us on social networks and share our work:</h4>
-<a href="https://www.facebook.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/facebook.png' | relative_url }}" height="50" width="50"></a> 
-<a href="https://twitter.com/coronasurveys" target="_blank" ><img src="{{ '/logos/other/twitter.png' | relative_url }}" height="50" width="50"></a> 
-<a href="https://www.instagram.com/coronasurveys/" target="_blank"><img src="{{ '/logos/other/instagram.png' | relative_url }}" height="50" width="50"></a>
-</div>
-<a href="mailto:coronasurveys@gmail.com"><center><font size="2"><u class="btn">Email</u></font></center></a> 
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> and designed by <a href="https://skyhaven.co.uk">Skyhaven Media</a></span>
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> and designed by <a href="https://www.facebook.com/skyhavenmedia/" target="_blank">Skyhaven Media</a></span>
       </footer>
     </main>
-</body>
+	</body>
 <script src="{{ 'assets/js/simply-nav.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/mapdata.js' | relative_url }}"></script>   
 <script src="{{ '/assets/js/worldmap.js' | relative_url }}"></script>
