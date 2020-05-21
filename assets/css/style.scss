@@ -90,6 +90,10 @@ div#map_zoom svg {
     border-radius: 8px;
 }
 
+div#map_zoom {
+    margin-left: 15px;
+}
+
 #map_zoom path {
     stroke: #000;
 }
