@@ -6,43 +6,43 @@ The results below present estimations on the incidence of COVID-19 from this and
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
-<div id="logos_resized-main">
+v id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" target="_blank">
-         <img src="{{ '/logos_resized/imdea-networks-positivo-color.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ucy.ac.cy/en/" target="_blank">
-         <img src="{{ '/logos_resized/University_of_Cyprus_2gr.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/University_of_Cyprus_2gr.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.algolysis.com/" target="_blank">
-         <img src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank">
-         <img src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank">
-         <img src="{{ '/logos_resized/tud_logo.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/tud_logo.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.tuat.ac.jp/en/" target="_blank">
-         <img src="{{ '/logos_resized/tat_2.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/tat_2.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank">
-         <img src="{{ '/logos_resized/InformaticsUni_transparent.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.uminho.pt/EN" target="_blank">
-         <img src="{{ '/logos_resized/UMinho.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/UMinho.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.inesctec.pt/en" target="_blank">
-         <img src="{{ '/logos_resized/inesctec.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/inesctec.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.unitn.it/en/" target="_blank">
-         <img src="{{ '/logos_resized/newlogo_unitn_it.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/newlogo_unitn_it.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.washington.edu/" target="_blank">
-         <img src="{{ '/logos_resized/Logo-UW.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/Logo-UW.jpg' | relative_url }}" height="50">
          </a> 
          <a href="https://www.ibidat.es" target="_blank">
-         <img src="{{ '/logos_resized/IBIDat-logo-name-v.svg.png' | relative_url }}" height="50">
+         <img src="{{ '/logos_resized/IBIDat-logo-name-v.svg.jpg' | relative_url }}" height="50">
          </a>
          <a href="https://skyhaven.co.uk" target="_blank">
          <img src="{{ '/logos_resized/skyhaven_logo_new.png' | relative_url }}" height="50">
