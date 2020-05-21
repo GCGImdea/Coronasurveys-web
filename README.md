@@ -289,7 +289,7 @@ You can help by regularly completing the anonymous survey.
 #### (Updated daily)
 
 <a href="{{ '/data' | relative_url }}"><img src="https://coronasurveys.org/assets/images/graph3.png"></a>
-<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" > <center><font size="2"><u class="btn">Click For Interactive Version</u></font></center></a> 
+<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=NG&var-country=Nigeria&var-region=All" ><center><font size="2"><u class="btn">Click For Interactive Version</u></font></center></a> 
 
 ### Further Reading
 
