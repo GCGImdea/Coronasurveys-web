@@ -279,8 +279,8 @@ You can help by regularly completing the anonymous survey.
 
 ### Estimates obtained by CoronaSurveys
 
-<a href="{{ '/data' | relative_url }}"><img src="https://coronasurveys.org/assets/images/graph1.png" alt="
-Percentage of population with symptoms estimated by @CoronaSurveys"></a><center><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" ><font size="2"><u class="btn">Click For Interactive Version</u></font></a></center><a href="{{ '/data' | relative_url }}"><img src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><center><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" ><font size="2"><u class="btn">Click For Interactive Version</u></font></a></center>
+<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" data-echo="https://coronasurveys.org/assets/images/graph1.png" alt="Testing Percentage of population with symptoms estimated by @CoronaSurveys"></a><center><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" ><font size="2"><u class="btn">Click For Interactive Version</u></font></a></center>
+<a href="{{ '/data' | relative_url }}"><img src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><center><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" ><font size="2"><u class="btn">Click For Interactive Version</u></font></a></center>
 
 ### Latest estimates per country
 
