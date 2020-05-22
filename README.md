@@ -219,7 +219,7 @@ You can help by regularly completing the anonymous survey.
 <option value="https://survey.coronasurveys.org/KN">Saint Kitts and Nevis</option>
 <option value="https://survey.coronasurveys.org/LC">Saint Lucia</option>
 <option value="https://survey.coronasurveys.org/SX">Saint Martin (Dutch)</option>
-<option value="https://survey.coronasurveys.org/MF">Saint Martin French)</option>(
+<option value="https://survey.coronasurveys.org/MF">Saint Martin (French)</option>
 <option value="https://survey.coronasurveys.org/VC">Saint Vincent and the Grenadines</option>
 <option value="https://survey.coronasurveys.org/SA">Saudi Arabia</option>
 <option value="https://survey.coronasurveys.org/SN">Senegal</option>
