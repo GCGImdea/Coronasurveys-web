@@ -284,7 +284,7 @@ You can help by regularly completing the anonymous survey.
 
 ### Latest estimates per country
 
-<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" data-echo="https://coronasurveys.org/assets/images/graph3.png" alt="Latest estimates per country"></a><center><a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&var-reach=150&var-population=1000000" ><font size="2"><u class="btn">Click For Interactive Version</u></font></a></center> 
+<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" data-echo="{{ '/assets/images/graph3.png' | relative_url }}" alt="Latest estimates per country"></a><center><a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&var-reach=150&var-population=1000000" ><font size="2"><u class="btn">Click For Interactive Version</u></font></a></center> 
 
 ### How can I help?
 
