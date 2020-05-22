@@ -148,15 +148,16 @@ div#map_holder {
 .btn {
     display: inline-block;
     margin-bottom: 1rem;
-    color: rgb(255, 255, 255);
     background-color: #673AB7;
-    border-color: rgba(0,0,0,0.2);
     border-style: solid;
-    border-width: 0px;
-    border-radius: 0.3rem;
-    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+    border-width: 0;
+    border-radius: .3rem;
+    transition: color .2s,background-color .2s,border-color .2s;
     font-size: 16px;
-    text-decoration: none;
+    /* text-align: center!important; */
+    display: flex;
+    justify-content: center;
+    width: 40%;
 }
 
 .btn:hover {
@@ -205,7 +206,7 @@ div#map_holder {
     color: #000000;
 }
 
-@media screen and (min-width: 64em){
+@media (min-width: 64em){
 .page-header {
     padding: 3rem 6rem!important;
 }
@@ -217,3 +218,10 @@ div#map_holder {
     font-size: 1.1rem;
 }
 } 
+
+@media (max-width: 768px) {
+	
+.btn {
+    width: 100%;
+}	
+}
