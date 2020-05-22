@@ -275,7 +275,7 @@ You can help by regularly completing the anonymous survey.
 
 ### Or, click on a location to start a survey:
 
-  <div id="map"></div>
+  <div id="map" class="lozad"></div>
 
 ### Estimates obtained by CoronaSurveys
 
