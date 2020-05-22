@@ -286,16 +286,6 @@ Percentage of population with symptoms estimated by @CoronaSurveys"></a><center>
 
 <a href="{{ '/data' | relative_url }}"><img src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest estimates per country"></a><center><a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&var-reach=150&var-population=1000000" ><font size="2"><u class="btn">Click For Interactive Version</u></font></a></center> 
 
-### Further Reading
-
-Source of data on confirmed cases and deaths: [European Centre for Disease Prevention and Control.](https://www.ecdc.europa.eu/en/covid-19-pandemic)
-
-(1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
-
-(2) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. <https://www.nature.com/articles/d41586-020-00760-8>
-
-(3) @CoronaSurveys estimates of cases with symptoms with 95% confidence. Corresponds to the latest date with sufficient cumulative number of survey responses (see the plots above). The label "undefined" is used when there are not enough survey responses to compute estimates. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain](https://medrxiv.org/cgi/content/short/2020.04.20.20073056v1)
-
 ### How can I help?
 
 Please complete our surveys! Choose a country in which you have contacts, and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
