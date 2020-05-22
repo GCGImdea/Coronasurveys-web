@@ -33,7 +33,7 @@ a.skip-to-content  {
     overflow:hidden;
     z-index:-999;
 }
-a.skip-to-content, a.skip-to-content:active {
+a.skip-to-content:focus, a.skip-to-content:active {
     color: #fff;
     background-color:#000;
     left: auto;
