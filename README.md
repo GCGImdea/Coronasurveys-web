@@ -54,7 +54,7 @@ You can help by regularly completing the anonymous survey.
 ### Contribute and fill the anonymous survey for a country:
 
 <div class="dropdown-section">
-<select id='Choose A Country' onchange="location = this.value;">
+<select name="Survey Country Selection" id='Choose A Country' onchange="location = this.value;">
 <option>Select A Country</option>
 <option value="https://survey.coronasurveys.org/AF">Afghanistan</option>
 <option value="https://survey.coronasurveys.org/AL">Albania</option>
