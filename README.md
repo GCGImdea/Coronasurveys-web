@@ -279,11 +279,11 @@ You can help by regularly completing the anonymous survey.
 
 ### Estimates obtained by CoronaSurveys
 
-<a href="{{ '/data' | relative_url }}"><img class="lozad" data-src="https://coronasurveys.org/assets/images/graph1.png" alt="Testing Percentage of population with symptoms estimated by @CoronaSurveys"></a><u class="btn"><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" >% Symptoms Interactive Version</a></u><a href="{{ '/data' | relative_url }}"><img class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><u class="btn"><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Number Of People Interactive Version</a></u>
+<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph1.png" alt="Testing Percentage of population with symptoms estimated by @CoronaSurveys"></a><u class="btn"><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" >% Symptoms Interactive Version</a></u><a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><u class="btn"><a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Number Of People Interactive Version</a></u>
 
 ### Latest estimates per country
 
-<a href="{{ '/data' | relative_url }}"><img class="lozad" data-src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest estimates per country"></a><u class="btn"><a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&var-reach=150&var-population=1000000" >Estimates Per Country Interactive Version</a></u>
+<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/placeholder.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest estimates per country"></a><u class="btn"><a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&var-reach=150&var-population=1000000" >Estimates Per Country Interactive Version</a></u>
 
 ### How can I help?
 
