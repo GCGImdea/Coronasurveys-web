@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -23,13 +26,10 @@
 <link rel="icon" type="image/png" sizes="96x96" href="{{ 'device-icons/favicon-96x96.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ 'device-icons/favicon-16x16.png' | relative_url }}">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}">  
-	  
+<meta name="msapplication-TileImage" content="{{ 'device-icons/ms-icon-144x144.png' | relative_url }}">  	  
   </head>
   <body>
-    
     <a class="skip-to-content" href="#content">Skip to the content.</a>
-
     <div class="nav-wrapper">
     <nav class="nav">
       <button class="toggle-nav" type="button" aria-label="main menu">
@@ -72,13 +72,11 @@
         </div>
       </div>
     </nav>
-  </div>
-	  
+  </div> 
       <header class="page-header">
          <div class="logo">
           <img src= "{{ 'assets/coronasurveys_logo.png' | relative_url }}" alt="Coronasurveys Logo">
       </div>
-
       <h1 class="project-tagline">@CoronaSurveys: Monitoring the Incidence of COVID-19 via Open Surveys</h1>
     </header>
     <main id="content" class="main-content" tabindex="-1">
@@ -106,33 +104,23 @@ observer.observe();
 <script src="{{ '/assets/js/mapdata.js' | relative_url }}"></script>   
 <script src="{{ '/assets/js/worldmap.js' | relative_url }}"></script>
 <script src="{{ 'assets/tarteaucitron/tarteaucitron.js' | relative_url}}"></script>
-
         <script>
         tarteaucitron.init({
     	  "privacyUrl": "https://coronasurveys.org/privacy-cookies", /* Privacy policy url */
-
     	  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
     	  "cookieName": "tarteaucitron", /* Cookie name */
-    
     	  "orientation": "bottom", /* Banner position (top - bottom) */
     	  "showAlertSmall": false, /* Show the small banner on bottom right */
     	  "cookieslist": true, /* Show the cookie list */
-
     	  "adblocker": false, /* Show a Warning if an adblocker is detected */
     	  "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
     	  "highPrivacy": true, /* Disable auto consent */
     	  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
-
     	  "removeCredit": true, /* Remove credit link */
     	  "moreInfoLink": true, /* Show more info link */
     	  "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
-
-    	  //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */
-                          
-    	  //"readmoreLink": "" /* Change the default readmore link */
         });
         </script>
-
         <script>
         tarteaucitron.user.gtagUa = 'UA-165674370-1';
         tarteaucitron.user.gtagMore = function () {
@@ -143,4 +131,3 @@ observer.observe();
         </script>
 </body>
 </html>
-    
