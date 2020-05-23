@@ -87,10 +87,6 @@ a.skip-to-content:focus, a.skip-to-content:active {
     margin: 20px;
 }
 
-center {
-    padding-top: 0.5rem;
-}
-
 .centered {text-align: center; }
 
 .center-content p {text-align: center; }
@@ -165,6 +161,10 @@ div#map_holder {
     text-decoration: none;
     background-color: #2a8a90;
     border-color: rgba(0,0,0,0.2);
+}
+
+.btn a {
+    color: #fff;
 }
 
 .main-content p {
