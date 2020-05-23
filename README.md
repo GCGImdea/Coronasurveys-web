@@ -8,53 +8,53 @@ You can help by regularly completing the anonymous survey.
 ### Supported By:
 <div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
-         <a href="https://www.networks.imdea.org/" target="_blank" rel="noreferrer">
+         <a href="https://www.networks.imdea.org/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="60" alt="IMDEA Logo">
          </a> 
-         <a href="https://www.ucy.ac.cy/en/" target="_blank" rel="noreferrer">
+         <a href="https://www.ucy.ac.cy/en/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/University_of_Cyprus_2gr.jpg' | relative_url }}" height="60" alt="Univerity of Cyprus Logo">
          </a> 
-         <a href="https://www.algolysis.com/" target="_blank" rel="noreferrer">
+         <a href="https://www.algolysis.com/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="60" alt="Algolysis Logo">
          </a> 
-         <a href="https://viterbischool.usc.edu/" target="_blank" rel="noreferrer">
+         <a href="https://viterbischool.usc.edu/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="60" alt="ViterbiSchool Logo">
          </a> 
-         <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank" rel="noreferrer">
+         <a href="https://www.tu-darmstadt.de/index.en.jsp" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/tud_logo.jpg' | relative_url }}" height="60" alt="Technical University (TU) of Darmstadt Logo">
          </a> 
-         <a href="https://www.tuat.ac.jp/en/" target="_blank" rel="noreferrer">
+         <a href="https://www.tuat.ac.jp/en/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/tat_2.jpg' | relative_url }}" height="60" alt="TUAT Logo">
          </a> 
-         <a href="https://www.ed.ac.uk/informatics" target="_blank" rel="noreferrer">
+         <a href="https://www.ed.ac.uk/informatics" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="60" alt="University of Edinburgh School Of Informatics Logo">
          </a> 
-         <a href="https://www.uminho.pt/EN" target="_blank" rel="noreferrer">
+         <a href="https://www.uminho.pt/EN" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/UMinho.jpg' | relative_url }}" height="60" alt="University of Minho Logo">
          </a> 
-         <a href="https://www.inesctec.pt/en" target="_blank" rel="noreferrer">
+         <a href="https://www.inesctec.pt/en" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/inesctec.jpg' | relative_url }}" height="60" alt="Inesctec Logo">
          </a> 
-         <a href="https://www.unitn.it/en/" target="_blank" rel="noreferrer">
+         <a href="https://www.unitn.it/en/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/newlogo_unitn_it.jpg' | relative_url }}" height="60" alt="University Of Trento Logo">
          </a> 
-         <a href="https://www.washington.edu/" target="_blank" rel="noreferrer">
+         <a href="https://www.washington.edu/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/Logo-UW.jpg' | relative_url }}" height="60" alt="University Of Washington Logo">
          </a> 
-         <a href="https://www.ibidat.es" target="_blank" rel="noreferrer">
+         <a href="https://www.ibidat.es" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/IBIDat-logo-name-v.svg.jpg' | relative_url }}" height="60" alt="Ibidat Logo">
          </a>
-         <a href="https://skyhaven.co.uk" target="_blank" rel="noreferrer">
+         <a href="https://skyhaven.co.uk" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/skyhaven_logo_new.jpg' | relative_url }}" height="60" alt="Skyhaven Media Logo">
          </a>
-         <a href="http://inqbarna.com" target="_blank" rel="noreferrer">
+         <a href="http://inqbarna.com" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a>
 </div>
 
 ### Contribute and fill the anonymous survey for a country:
 
 <div class="dropdown-section">
-<select name="Survey Country Selection" id='Choose_A_Country' aria-label="Select A Country" onchange="location = this.value;">
+<select id="Choose_A_Country" name="Survey Country Selection" aria-label="Select A Country" onchange="location = this.value;">
 <option>Select A Country</option>
 <option value="https://survey.coronasurveys.org/AF">Afghanistan</option>
 <option value="https://survey.coronasurveys.org/AL">Albania</option>
