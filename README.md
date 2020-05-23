@@ -27,7 +27,7 @@ You can help by regularly completing the anonymous survey.
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/tat_2.jpg' | relative_url }}" height="60" alt="TUAT Logo">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank" rel="noreferrer">
-         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="60" alt="University of Edinburgh School Of Informatics Logo">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="60" alt="University of Edinburgh School Of Informatics Logo">
          </a> 
          <a href="https://www.uminho.pt/EN" target="_blank" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/UMinho.jpg' | relative_url }}" height="60" alt="University of Minho Logo">
