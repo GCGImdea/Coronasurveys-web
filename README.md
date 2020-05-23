@@ -9,46 +9,46 @@ You can help by regularly completing the anonymous survey.
 <div id="logos_resized-main">
    <!-- mgoessen@: Markdown interpretation is disabled within HTML tags, thus, we go raw HTML -->
          <a href="https://www.networks.imdea.org/" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="60" alt="IMDEA Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/imdea-networks-positivo-color.jpg' | relative_url }}" height="60" alt="IMDEA Logo">
          </a> 
          <a href="https://www.ucy.ac.cy/en/" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/University_of_Cyprus_2gr.jpg' | relative_url }}" height="60" alt="Univerity of Cyprus Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/University_of_Cyprus_2gr.jpg' | relative_url }}" height="60" alt="Univerity of Cyprus Logo">
          </a> 
          <a href="https://www.algolysis.com/" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="60" alt="Algolysis Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="60" alt="Algolysis Logo">
          </a> 
          <a href="https://viterbischool.usc.edu/" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="60" alt="ViterbiSchool Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/Formal_Viterbi_CardOnWhite.jpg' | relative_url }}" height="60" alt="ViterbiSchool Logo">
          </a> 
          <a href="https://www.tu-darmstadt.de/index.en.jsp" target="_blank" rel="noreferrer">
-         <img class="lozad" data-src="{{ '/logos_resized/tud_logo.jpg' | relative_url }}" height="60" alt="Technical University (TU) of Darmstadt Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/tud_logo.jpg' | relative_url }}" height="60" alt="Technical University (TU) of Darmstadt Logo">
          </a> 
          <a href="https://www.tuat.ac.jp/en/" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/tat_2.jpg' | relative_url }}" height="60" alt="TUAT Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/tat_2.jpg' | relative_url }}" height="60" alt="TUAT Logo">
          </a> 
          <a href="https://www.ed.ac.uk/informatics" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="60" alt="University of Edinburgh School Of Informatics Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/InformaticsUni_transparent.jpg' | relative_url }}" height="60" alt="University of Edinburgh School Of Informatics Logo">
          </a> 
          <a href="https://www.uminho.pt/EN" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/UMinho.jpg' | relative_url }}" height="60" alt="University of Minho Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/UMinho.jpg' | relative_url }}" height="60" alt="University of Minho Logo">
          </a> 
          <a href="https://www.inesctec.pt/en" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/inesctec.jpg' | relative_url }}" height="60" alt="Inesctec Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/inesctec.jpg' | relative_url }}" height="60" alt="Inesctec Logo">
          </a> 
          <a href="https://www.unitn.it/en/" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/newlogo_unitn_it.jpg' | relative_url }}" height="60" alt="University Of Trento Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/newlogo_unitn_it.jpg' | relative_url }}" height="60" alt="University Of Trento Logo">
          </a> 
          <a href="https://www.washington.edu/" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/Logo-UW.jpg' | relative_url }}" height="60" alt="University Of Washington Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/Logo-UW.jpg' | relative_url }}" height="60" alt="University Of Washington Logo">
          </a> 
          <a href="https://www.ibidat.es" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/IBIDat-logo-name-v.svg.jpg' | relative_url }}" height="60" alt="Ibidat Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/IBIDat-logo-name-v.svg.jpg' | relative_url }}" height="60" alt="Ibidat Logo">
          </a>
          <a href="https://skyhaven.co.uk" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/skyhaven_logo_new.jpg' | relative_url }}" height="60" alt="Skyhaven Media Logo">
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/skyhaven_logo_new.jpg' | relative_url }}" height="60" alt="Skyhaven Media Logo">
          </a>
          <a href="http://inqbarna.com" target="_blank" rel="noreferrer">
-         <img class="lozad" src="{{ '/assets/FFFFFF-1.png | relative_url }}" data-src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a>
+         <img class="lozad" src="https://coronsurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a>
 </div>
 
 ### Contribute and fill the anonymous survey for a country:
