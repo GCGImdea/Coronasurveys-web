@@ -189,7 +189,8 @@
   cursor: pointer;
   -webkit-transition: .2s all;
   -o-transition: .2s all;
-  transition: .2s all; }
+  transition: .2s all; 
+display: block; }
   .burger:after {
     content: '';
     display: block;
