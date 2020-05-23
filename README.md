@@ -1,4 +1,4 @@
-## Coronasurveys Project Summary
+## CoronaSurveys Project Summary
 The CoronaSurveys project is a collaborative endeavour from several universities and research institutions
 ([team members](/team)) Data about COVID-19 cases is collected
 via anonymous open surveys ([all the data collected is openly available](https://github.com/GCGImdea/coronasurveys/tree/master/data/)).
