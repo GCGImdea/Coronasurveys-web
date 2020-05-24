@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 url: https://coronasurveys.org
 title: Coronasurveys - An International Survey On Coronavirus Incidence.
-tagline: Monitoring the Incidence of Coronavirus (COVID-19) via open surveys.
-description: An international group monitoring the incidence of Coronavirus (Covid-19, Sars-Cov-2) through anonymous surveys. Outbreak survey data collected is made public. Participate with Coronasurveys and assist the global effort. 
+tagline: Coronasurveys - Monitoring the Incidence of Coronavirus (COVID-19) via open surveys.
+description: Coronasurveys is an international group monitoring the incidence of Coronavirus (Covid-19, Sars-Cov-2) through anonymous surveys. Outbreak survey data collected is made public. Participate with Coronasurveys and assist the global effort. 
 github:
   is_project_page: false
 
