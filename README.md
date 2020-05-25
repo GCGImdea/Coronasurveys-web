@@ -2,7 +2,7 @@
 The CoronaSurveys project is a collaborative endeavour from several universities and research institutions
 ([team members](/team)) Data about COVID-19 cases is collected
 via anonymous open surveys ([all the data collected is openly available](https://github.com/GCGImdea/coronasurveys/tree/master/data/)).
-The results below present estimations on the incidence of COVID-19 from this and other available data. 
+The results below present estimations on the incidence and evolution of COVID-19 obtained from this data using the Network Scale-up Method. 
 You can help by regularly completing the anonymous survey.
 
 ### Supported By:
@@ -288,10 +288,10 @@ You can help by regularly completing the anonymous survey.
 
 Please complete our surveys! Choose a country in which you have contacts, and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
 
-Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey every day. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
+Because we are tracking the evolution of this epidemic over time, once you have completed the survey, please remember to come back and update the survey at least once a week, or when the responses change. And finally, you can help us by asking your friends, colleagues and relatives to complete the survey as well! Thank you!
 
 ### About the project
 
 The world is suffering from a pandemic called COVID-19, caused by the SARS-CoV-2 virus. The different national governments have problems evaluating the reach of the epidemic, having limited resources and tests to their disposal. Hence, any means to evaluate the number of persons with symptoms compatible with COVID-19 with reasonable level of accuracy is useful.
 
-The objective of this study is the collection and publication of data concerning the number of people that show symptoms compatible with COVID-19 in different countries. Hopefully, this data will be useful to estimate the number of infected persons with the COVID-19 virus at a given point in time in these countries, and the evolution of this number over time.
+The objective of this study is the collection and publication of data concerning the number of people that show symptoms compatible with COVID-19 in different countries. This data is useful to estimate the number of infected persons with the COVID-19 virus at a given point in time in these countries, and the evolution of this number over time, using tehniques like the Network Scale-up Method.
