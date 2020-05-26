@@ -42,6 +42,8 @@
 
 ### Portuguese
 
+- [Embrapa joins international effort to monitor Covid-19 (May 20th, 2020)](https://www.embrapa.br/en/busca-de-noticias/-/noticia/52509978/embrapa-integra-esforco-internacional-para-monitorar-a-covid-19)
+- [Projeto CoronaSurveys - Brasil, by Ednaldo José Ferreira (May 19th, 2020)](https://youtu.be/HTrgqvPFfuc)
 - [Science4Covid19, Portugal (April 27th, 2020)](https://www.science4covid19.pt/coronasurveys/)
 - [Bip INESC TEC, Portugal (April 15th, 2020)](http://bip.inesctec.pt/en/noticias/inesc-tec-researcher-takes-part-in-international-study-to-determine-the-incidence-of-the-pandemic/)
 - [Jornal de Negócios, Portugal (April 13th, 2020)](https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/numero-real-de-infetados-deve-ser-cinco-vezes-superior)
