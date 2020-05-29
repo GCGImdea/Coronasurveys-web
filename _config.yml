@@ -8,7 +8,6 @@ github:
 
 plugins:
 - github-pages
-#- jekyll-github-metadata
 - jekyll-redirect-from
 - jekyll-sitemap
 - jemoji
