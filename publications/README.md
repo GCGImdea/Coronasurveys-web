@@ -15,6 +15,9 @@
 
 ### Spanish
 
+- [A hombros de gigantes, Radio 5 (May 31st, 2020)](https://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/hombros-gigantes-energia-nuclear-cambio-climatico-bacterias-contra-depresion-ansiedad-virus-vacuna-encuestas-para-conocer-alcance-pandemia-31-05-20/5584863/#)
+- [Big Data & AI: Creando valor en entornos acelerados (May 27th, 2020)](https://www.enegociosmba.com/webinar-big-data-ai-creando-valor-en-entornos-acelerados/)
+- [Carne Cruda - Matemáticas y coronavirus: qué dicen los datos (May 10th, 2020)](https://www.eldiario.es/carnecruda/programas/cifras-coronavirus_6_1025807412.html)
 - [Data for Hope, Spain (April 29th, 2020)](https://dataforhope.com/evolucion-de-la-pandemia.html)
 - [COPE, Spain (April 12th, 2020)](https://www.cope.es/programas/tiempo-de-juego/amp/audios/coronasurveys-encuesta-que-busca-monitorizar-los-enfermos-covid-19-20200412_1072108)
 - [ABC, Spain (April 9th, 2020)](https://www.abc.es/ciencia/abci-pregunta-millon-cuantos-infectados-coronavirus-espana-y-dato-importante-202004090209_noticia.html?ref=https%3A%2F%2Ft.co%2FTcYXnIrWXN%3Famp%3D1)
