@@ -8,6 +8,7 @@
 
 ### English
 
+- [J on the Beach (June3rd,2020)](https://jonthebeach.com/blog/Understanding-COVID19-Through-Data)
 - [Phys.org (April 3rd, 2020)](https://phys.org/wire-news/347339848/a-study-led-by-a-researcher-from-imdea-networks-counts-more-than.html)
 - [DiCYT (April 3rd, 2020)](https://www.dicyt.com/news/an-international-team-counts-more-than-two-million-current-symptomatic-cases-of-covid-19-in-spain)
 - [Total Telecom (April 2nd, 2020)](https://www.totaltele.com/505366/An-international-team-led-by-a-researcher-from-IMDEA-Networks-counts-more-than-two-million-current-symptomatic-cases-of-Covid-19-in-Spain)
