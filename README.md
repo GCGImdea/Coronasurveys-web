@@ -14,6 +14,9 @@ You can help by regularly completing the anonymous survey.
          <a href="https://www.ucy.ac.cy/en/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/University_of_Cyprus_2gr.jpg' | relative_url }}" height="60" alt="Univerity of Cyprus Logo">
          </a> 
+            <a href="https://www.embrapa.br/" rel="noreferrer">
+         <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/embrapa_logo.png' | relative_url }}" height="60" alt="Embrapa Logo">
+         </a> 
          <a href="https://www.algolysis.com/" rel="noreferrer">
          <img class="lozad" src="https://coronasurveys.org/assets/FFFFFF-1.png" data-src="{{ '/logos_resized/algolysis_corporate-identity_v4.0-Grayscale_LOGO-dark-on-white-text-right.jpg' | relative_url }}" height="60" alt="Algolysis Logo">
          </a> 
