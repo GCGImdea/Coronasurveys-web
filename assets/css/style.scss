@@ -53,13 +53,16 @@ a.skip-to-content:focus, a.skip-to-content:active {
 .logo img {
     width: 65%;
 }
-
-.logo, .project-tagline {
+.logo, .project-tagline, .downloads {
     width: 100%;
     padding: 0px;
     margin: 0;
     background: #fff;
     border-radius: 35px;
+}
+
+h2.links {
+    font-size: 20px;
 }
 
 .project-tagline {
