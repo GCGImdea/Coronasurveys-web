@@ -4,7 +4,7 @@
 
 <figure class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Calendar_icon.svg/64px-Google_Calendar_icon.svg.png" alt="Google Calendar icon"></figure><p>
 
-<script>
+<script type="text/javascript"/>
 // Callback for apps
 // mgoessen/Nacho
 try {
