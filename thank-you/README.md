@@ -3,11 +3,10 @@
 <p>Download a weekly reminder! قم بتنزيل تذكير أسبوعي! Téléchargez un rappel hebdomadaire! Laden Sie eine wöchentliche Erinnerung herunter! Κατεβάστε μια εβδομαδιαία υπενθύμιση! Unduh pengingat mingguan! Scarica un promemoria settimanale! 毎週のリマインダーをダウンロード！ یادآوری هفتگی را بارگیری کنید! Faça o download de um lembrete semanal! ¡Descarga un recordatorio semanal! Haftalık hatırlatıcı indirin! Завантажте щотижневе нагадування!</p>
 
 <figure class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Calendar_icon.svg/64px-Google_Calendar_icon.svg.png" alt="Google Calendar icon"></figure><p>
-  
+
 <script>
 // Callback for apps
 // mgoessen/Nacho
-
 try {
     window.webkit.messageHandlers.appCallback.postMessage("Did finish
 survey");
@@ -19,5 +18,4 @@ survey");
         // IE...........................
     }
 }
-
 </script>
