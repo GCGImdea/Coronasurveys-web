@@ -2,13 +2,14 @@
 
 - Carlos Baquero, Paolo Casari, Antonio Fernandez Anta, Davide Frey, Augusto Garcia-Agundez, Chryssis Georgiou, Raquel Menezes, Nicolas Nicolaou, Oluwasegun Ojo, Paul Patras. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain,](https://medrxiv.org/cgi/content/short/2020.04.20.20073056v1)  medRxiv, April 2020. doi: https://doi.org/10.1101/2020.04.20.20073056
 
-- Oluwasegun Ojo et al. [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics,](https://arxiv.org/abs/2005.12783) 	arXiv:2005.12783 [cs.DC], May 2020. Draft under submission.
+- Oluwasegun Ojo et al. [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics,](https://arxiv.org/abs/2005.12783 ) 	arXiv:2005.12783 v2 [cs.DC], June 2020. Presented at The KDD Workshop on Humanitarian Mapping, San Diego, California USA, August 24, 2020.
 
 ## Media presence
 
 ### English
 
-- [J on the Beach (June3rd,2020)](https://jonthebeach.com/blog/Understanding-COVID19-Through-Data)
+- [The Scientist (July 6th, 2020)](https://www.the-scientist.com/notebook/initiative-recruits-scientist-volunteers-to-aid-covid-19-research-67687)
+- [J on the Beach (June 3rd,2020)](https://jonthebeach.com/blog/Understanding-COVID19-Through-Data)
 - [Phys.org (April 3rd, 2020)](https://phys.org/wire-news/347339848/a-study-led-by-a-researcher-from-imdea-networks-counts-more-than.html)
 - [DiCYT (April 3rd, 2020)](https://www.dicyt.com/news/an-international-team-counts-more-than-two-million-current-symptomatic-cases-of-covid-19-in-spain)
 - [Total Telecom (April 2nd, 2020)](https://www.totaltele.com/505366/An-international-team-led-by-a-researcher-from-IMDEA-Networks-counts-more-than-two-million-current-symptomatic-cases-of-Covid-19-in-Spain)
