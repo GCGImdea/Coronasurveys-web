@@ -18,10 +18,10 @@ https://github.com/woodroots/infiniteslidev2
 		$.fn.infiniteslide = function(options){
 			//option
 			var settings = $.extend({
-				'speed': 100, //速さ　単位はpx/秒です。
-				'direction': 'left', //up/down/left/rightから選択
-				'pauseonhover': true, //マウスオーバーでストップ
-				'responsive': false, //子要素の幅を%で指定しているとき
+				'speed': 100,
+				'direction': 'left',
+				'pauseonhover': true, 
+				'responsive': false,
 				'clone': 1
 			},options);
 			
