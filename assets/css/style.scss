@@ -239,6 +239,12 @@ div#map_holder {
 }	
 }
 
+.module {
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+}
 
 .scroll1 img {
     padding: 0 20px;
