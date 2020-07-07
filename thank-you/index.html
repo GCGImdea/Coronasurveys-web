@@ -22,17 +22,14 @@ layout: default
 </ul>
 <p>&nbsp</p>
 <script type="text/javascript"/>
-// Callback for apps
-// mgoessen/Nacho
-try {
-    window.webkit.messageHandlers.appCallback.postMessage("Did finish
-survey");
-} catch(err) {
-    try {
-        console.log('Can not reach native code, not in a mobile ?: ' + err);
-        // inspectable exception console.log(err); }
-    catch (err2){
-        // IE...........................
-    }
+ try {
+     window.webkit.messageHandlers.appCallback.postMessage("Did finish survey");
+ } catch(err) {
+     try {
+         console.log('Can not reach native code, not in a mobile ?: ' + err);
+         // inspectable exception console.log(err); }
+     catch (err2){
+         // IE...........................
+     }
 }
 </script>
