@@ -281,7 +281,10 @@ You can help by regularly completing the anonymous survey.
 <div id="map" class="lozad"></div>
   
 ### Estimates obtained by CoronaSurveys
-<div class="data"><a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/FFFFFF-1.png' | relative_url }}"  class="lozad" data-src="https://coronasurveys.org/assets/images/graph1.png" alt="Percentage of population with symptoms estimated by @CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=20&orgId=1&from=1584576000000" >% Symptoms Interactive Version</a><a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Number Of People Interactive Version</a></div>
+<div class="data">
+   <a href="{{ '/data' | relative_url }}">
+      <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of people with symptoms estimated by @CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Number Of People Interactive Version</a>
+</div>
 
 ### Latest estimates per country
 <div class="data">
