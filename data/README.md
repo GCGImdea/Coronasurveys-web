@@ -23,8 +23,9 @@
 
 Source of data on confirmed cases and deaths: [European Centre for Disease Prevention and Control.](https://www.ecdc.europa.eu/en/covid-19-pandemic)
 
-(1) Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>
+(1) CoronaSurveys estimates using the cCFR-based technique described in Section 3.1 of [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics.](https://arxiv.org/abs/2005.12783).
+Based on Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulence of Emerging Infectious Diseases: A Case Study of an Influenza Pandemic. Plos One. August 31, 2009. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006852>. 
 
-(2) Amy Maxmen. How much is coronavirus spreading under the radar? Nature News Explainer, March 13th, 2020. <https://www.nature.com/articles/d41586-020-00760-8>
+(2) CoronaSurveys estimates using the **Country based approach** (using 30 responses) described in Section 2.2 of [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics.](https://arxiv.org/abs/2005.12783). (CI-L, CI-H) is the 95% confidence interval computed as described there. Corresponds to the latest date with sufficient cumulative number of survey responses. The label "undefined" is used when there are not enough survey responses to compute estimates.
 
-(3) CoronaSurveys estimates of cases with symptoms with 95% confidence. Corresponds to the latest date with sufficient cumulative number of survey responses (see the plots above). The label "undefined" is used when there are not enough survey responses to compute estimates. [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics.](https://arxiv.org/abs/2005.12783)
+(3) CoronaSurveys estimates using the **Region based approach** (using 300 responses) described in Section 2.2 of [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics.](https://arxiv.org/abs/2005.12783). (CI-L, CI-H) is the 95% confidence interval computed as described there. Corresponds to the latest date with sufficient cumulative number of survey responses. The label "undefined" is used when there are not enough survey responses to compute estimates.
