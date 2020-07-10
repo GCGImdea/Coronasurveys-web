@@ -50,6 +50,8 @@ You can help by regularly completing the anonymous survey.
          </a></li>
          <li><a href="http://inqbarna.com" rel="noreferrer">
          <img src="{{ '/logos_resized/inqbarna_com_logo_rectangular.jpg' | relative_url }}" height="60" alt="Inqbarna Logo"></a></li>
+      <li><a href="https://crowdfightcovid19.org/" rel="noreferrer">
+         <img src="{{ '/logos_resized/Crowdfight_logo_transp_web.jpg' | relative_url }}" height="60" alt="Crowdfight Covid-19 Logo"></a></li>
    </ul>
 </div>
 </div>
