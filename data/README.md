@@ -1,4 +1,4 @@
-### World risk map with current percentage of active cases
+### World risk map with current percentage of active infectious cases (4)
 
 #### (Updated daily)
 
@@ -6,7 +6,7 @@
 
 <a href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
 
-### Estimates of active cases per country
+### Estimates of active infectious cases per country (4)
 
 #### (Updated daily)
 
@@ -14,7 +14,7 @@
 
 <a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1583020800000&to=1594857599000&viewPanel=35&var-code=US&var-country=United%20States" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
 
-### Cumulative cases estimates obtained by CoronaSurveys
+### Cumulative COVID-19 cases estimates obtained by CoronaSurveys (3)
 
 #### (Updated daily)
 
@@ -22,7 +22,7 @@
 
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
 
-### Cumulative cases estimates per country
+### Cumulative COVID-19 cases estimates per country (1, 2, 3)
 
 #### (Updated daily)
 
@@ -45,3 +45,5 @@ Based on Hiroshi Nishiura et al. Early Epidemiological Assessment of the Virulen
 (2) CoronaSurveys estimates using the **Country based approach** (using 30 responses) described in Section 2.2 of [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics.](https://arxiv.org/abs/2005.12783). (CI-L, CI-H) is the 95% confidence interval computed as described there. Corresponds to the latest date with sufficient cumulative number of survey responses. The label "undefined" is used when there are not enough survey responses to compute estimates.
 
 (3) CoronaSurveys estimates using the **Region based approach** (using 300 responses) described in Section 2.2 of [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics.](https://arxiv.org/abs/2005.12783). (CI-L, CI-H) is the 95% confidence interval computed as described there. Corresponds to the latest date with sufficient cumulative number of survey responses. The label "undefined" is used when there are not enough survey responses to compute estimates.
+
+(4) [Estimating active cases of COVID-19: The unknown matters.](https://medium.com/@inesctec/estimating-active-cases-of-covid-19-the-unknown-matters-602c3ef952bb)
