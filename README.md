@@ -282,22 +282,22 @@ You can help by regularly completing the anonymous survey.
 
 <div id="map" class="lozad"></div>
 
-### Global estimates obtained by CoronaSurveys
+### Global estimates of active infectious cases obtained by CoronaSurveys
 <div class="data">
    <a href="{{ '/data' | relative_url }}">
       <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="
-https://coronasurveys.org/assets/images/map.png" alt="Number of active global cases estimated by CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" >Global estimates, Interactive Version</a>
+https://coronasurveys.org/assets/images/map.png" alt="Number of active infectious global cases estimated by CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" >Global estimates, Interactive Version</a>
 </div>
   
-### Estimates obtained by CoronaSurveys
+### Global estimates of cumulative COVID-19 cases obtained by CoronaSurveys
 <div class="data">
    <a href="{{ '/data' | relative_url }}">
-      <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Number of infected people estimated by CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Estimates of Infections, Interactive Version</a>
+      <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Cumulative number of infected people estimated by CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Estimates of Infections, Interactive Version</a>
 </div>
 
-### Latest estimates per country
+### Estimates of cumulative COVID-19 cases per country obtained by CoronaSurveys
 <div class="data">
-<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest estimates per country"></a><a class="btn" href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&to=1592732331580&var-reach=150&var-population=1000000&viewPanel=10" >Estimates per Country, Interactive Version</a></div>
+<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest cumulative cases estimates per country"></a><a class="btn" href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&to=1592732331580&var-reach=150&var-population=1000000&viewPanel=10" >Estimates per Country, Interactive Version</a></div>
 
 ### How can I help?
 
