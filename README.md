@@ -281,6 +281,13 @@ You can help by regularly completing the anonymous survey.
 ### Or, click on a location to start a survey:
 
 <div id="map" class="lozad"></div>
+
+### Global estimates obtained by CoronaSurveys
+<div class="data">
+   <a href="{{ '/data' | relative_url }}">
+      <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="
+https://coronasurveys.org/assets/images/map.png" alt="Number of active global cases estimated by CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" >Global estimates, Interactive Version</a>
+</div>
   
 ### Estimates obtained by CoronaSurveys
 <div class="data">
