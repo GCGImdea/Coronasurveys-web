@@ -1,4 +1,20 @@
-### Cases estimates obtained by CoronaSurveys
+### World risk map with current percentage of active cases
+
+#### (Updated daily)
+
+<iframe src="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" width="100%" height="400" frameborder="0"></iframe>
+
+<a href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
+
+### Estimates of active cases per country
+
+#### (Updated daily)
+
+<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1583020800000&to=1594857599000&viewPanel=35&var-code=US&var-country=United%20States" width="100%" height="400" frameborder="0"></iframe>
+
+<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1583020800000&to=1594857599000&viewPanel=35&var-code=US&var-country=United%20States" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
+
+### Cumulative cases estimates obtained by CoronaSurveys
 
 #### (Updated daily)
 
@@ -6,7 +22,7 @@
 
 <a href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
 
-### Latest cases estimates per country
+### Cumulative cases estimates per country
 
 #### (Updated daily)
 
