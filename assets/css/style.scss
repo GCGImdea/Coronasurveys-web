@@ -26,6 +26,11 @@ html, body {
 
 .data img {width: 100%;}
 
+input[type="image"] {
+    padding-left: 30px;
+    width: 250px;
+}
+
 a.skip-to-content  {
     left:-999px;
     position:absolute;
