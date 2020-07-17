@@ -2,7 +2,12 @@
 layout: default
 ---
 <h3>Thank you!</h3>
-<p>&nbsp</p>
+<div class="data">
+   <a href="{{ '/data' | relative_url }}">
+      <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="{{ 'assets/thank-you-cloud.png' | relative_url }}"
+ alt="Number of active infectious global cases estimated by CoronaSurveys">
+ </a>
+</div>
 <a href="https://coronasurveys.org/coronasurveys_weekly.ics">
 <h4>Download a weekly reminder!</h4>
 <div class="centered"><img class="ical" src= "{{ 'device-icons/iCal_256x256.png' | relative_url }}" alt="ical download icon"></div>
