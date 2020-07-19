@@ -10,9 +10,9 @@
 
 #### (Updated daily)
 
-<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1583020800000&to=1594857599000&viewPanel=35&var-code=US&var-country=United%20States" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1583020800000&viewPanel=35&var-code=US&var-country=United%20States" width="100%" height="400" frameborder="0"></iframe>
 
-<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1583020800000&to=1594857599000&viewPanel=35&var-code=US&var-country=United%20States" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
+<a href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1583020800000&viewPanel=35&var-code=US&var-country=United%20States" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
 
 ### Cumulative COVID-19 cases estimates obtained by CoronaSurveys (3)
 
