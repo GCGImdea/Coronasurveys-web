@@ -2,9 +2,9 @@
 
 #### (Updated daily)
 
-<iframe src="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" width="100%" height="700" frameborder="0"></iframe>
+<iframe src="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active" width="100%" height="700" frameborder="0"></iframe>
 
-<a href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
+<a href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active" > <center><font size="2"><u class="btn">Can't see the graph?</u></font></center></a> 
 
 ### Estimates of active infectious cases per country (4)
 
