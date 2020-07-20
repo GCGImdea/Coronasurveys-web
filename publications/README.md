@@ -1,8 +1,10 @@
 ## Reports & Publications
 
-- Carlos Baquero, Paolo Casari, Antonio Fernandez Anta, Davide Frey, Augusto Garcia-Agundez, Chryssis Georgiou, Raquel Menezes, Nicolas Nicolaou, Oluwasegun Ojo, Paul Patras. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain,](https://medrxiv.org/cgi/content/short/2020.04.20.20073056v1)  medRxiv, April 2020. doi: https://doi.org/10.1101/2020.04.20.20073056
+- INESC TEC. [Estimating active cases of COVID-19: The unknown matters,](https://medium.com/@inesctec/estimating-active-cases-of-covid-19-the-unknown-matters-602c3ef952bb) Medium.com, July 16th, 2020.
 
-- Oluwasegun Ojo et al. [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics,](https://arxiv.org/abs/2005.12783 ) 	arXiv:2005.12783 v2 [cs.DC], June 2020. Presented at The KDD Workshop on Humanitarian Mapping, San Diego, California USA, August 24, 2020.
+- Oluwasegun Ojo et al. [CoronaSurveys: Using Surveys with Indirect Reporting to Estimate the Incidence and Evolution of Epidemics,](https://arxiv.org/abs/2005.12783) 	arXiv:2005.12783 v2 [cs.DC], June 2020. Presented at The KDD Workshop on Humanitarian Mapping, San Diego, California USA, August 24, 2020.
+
+- Carlos Baquero, Paolo Casari, Antonio Fernandez Anta, Davide Frey, Augusto Garcia-Agundez, Chryssis Georgiou, Raquel Menezes, Nicolas Nicolaou, Oluwasegun Ojo, Paul Patras. [Measuring Icebergs: Using Different Methods to Estimate the Number of COVID-19 Cases in Portugal and Spain,](https://medrxiv.org/cgi/content/short/2020.04.20.20073056v1)  medRxiv, April 2020. doi: https://doi.org/10.1101/2020.04.20.20073056
 
 ## Media presence
 
