@@ -31,10 +31,8 @@ layout: default
      window.webkit.messageHandlers.appCallback.postMessage("Did finish survey");
  } catch(err) {
      try {
-         console.log('Can not reach native code, not in a mobile ?: ' + err);
-         // inspectable exception console.log(err); }
+         console.log('Can not reach native code, not in a mobile ?: ' + err); }
      catch (err2){
-         // IE...........................
      }
 }
 </script>
