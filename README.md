@@ -1,3 +1,5 @@
+(Si buscas la encuesta de **Rivas y Arganda del Rey**, sigue [este enlace](https://survey.coronasurveys.org/RA))
+
 ## CoronaSurveys Project Summary
 The CoronaSurveys project is a collaborative endeavour from several universities and research institutions
 ([team members](/team)) Data about COVID-19 cases is collected
@@ -57,8 +59,6 @@ You can help by regularly completing the anonymous survey.
 </div>
 
 ### Contribute and fill the anonymous survey for a country:
-
-(Si buscas la encuesta de **Rivas y Arganda del Rey**, sigue [este enlace](https://survey.coronasurveys.org/RA))
 
 <div class="dropdown-section">
 <select id="Choose_A_Country" name="Survey Country Selection" aria-label="Select A Country" onchange="location = this.value;">
