@@ -291,16 +291,6 @@ You can help by regularly completing the anonymous survey.
 https://coronasurveys.org/assets/images/map.png" alt="Number of active infectious global cases estimated by CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d/Xhw-4m3Wz/atcoronasurveys-playground?viewPanel=5&orgId=1&var-estimate=est_ccfr&var-estimator=ccfr-based&var-active_estimator=ccfr-based&var-detected=active_undetected" >Global estimates, Interactive Version</a>
 </div>
   
-### Global estimates of cumulative COVID-19 cases obtained by CoronaSurveys
-<div class="data">
-   <a href="{{ '/data' | relative_url }}">
-      <img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph2.png" alt="Cumulative number of infected people estimated by CoronaSurveys"></a><a class="btn" href="https://coronasurveys.org/grafana/d-solo/G_Aw4CrZk/coronasurveys?tab=advanced&panelId=19&orgId=1&from=1584576000000" >Estimates of Infections, Interactive Version</a>
-</div>
-
-### Estimates of cumulative COVID-19 cases per country obtained by CoronaSurveys
-<div class="data">
-<a href="{{ '/data' | relative_url }}"><img src="{{ '/assets/FFFFFF-1.png' | relative_url }}" class="lozad" data-src="https://coronasurveys.org/assets/images/graph3.png" alt="Latest cumulative cases estimates per country"></a><a class="btn" href="https://coronasurveys.org/grafana/d/G_Aw4CrZk/coronasurveys?orgId=1&from=1584278578992&panelId=10&fullscreen&var-code=ES&var-country=Spain&var-region=All&to=1592732331580&var-reach=150&var-population=1000000&viewPanel=10" >Estimates per Country, Interactive Version</a></div>
-
 ### How can I help?
 
 Please complete our surveys! Choose a country in which you have contacts, and tell us about the number of cases (suspected or confirmed) you know about. No personal information is stored in these surveys. Because each of us can provide information about the situation among our direct contacts, in aggregate we are able to get rough estimates of total cases.
